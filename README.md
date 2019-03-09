@@ -3,12 +3,9 @@ Jquery fullcalendar module [FullCalendar](https://fullcalendar.io)
 
 This package wraps the fullcalendar module for Angular.
 
-[![latest](https://img.shields.io/npm/v/ng-fullcalendar/latest.svg)](http://www.npmjs.com/package/ng-fullcalendar) 
-[![Npm Downloads](https://img.shields.io/npm/dt/ng-fullcalendar.svg?maxAge=2592000)](https://www.npmjs.com/package/ng-fullcalendar)
+[![latest](https://img.shields.io/npm/v/calendangular/latest.svg)](https://www.npmjs.com/package/calendangular) 
+<!-- [![Npm Downloads](https://img.shields.io/npm/dt/ng-fullcalendar.svg?maxAge=2592000)](https://www.npmjs.com/package/ng-fullcalendar) -->
 
-Demo project in Stackblitz [DEMO](https://stackblitz.com/edit/ng-fullcalendar-demo)
-
-Demo src [Demo](https://github.com/Jamaks/ng-fullcalendar-demo)
 
 This package support Angular 6, see please demo src.
 
